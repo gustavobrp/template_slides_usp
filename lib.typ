@@ -328,7 +328,12 @@
       if subtitle != none and date != none { text(1.4em)[ \ ] } +
       if date != none {text(1.1em, date)} +
       align(left+bottom, authors.join(", ", last: " & "))
-    )
+    )[
+          #image(
+          "img/usp.jpg",
+          // height:15%,
+          )
+        ]
   }
 
   // Outline
