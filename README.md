@@ -2,6 +2,8 @@
 
 *easy slides in typst*
 
+*Modificação da template Diatypst*
+
 Features:
 
 - easy delimiter for slides and sections (just use headings)
