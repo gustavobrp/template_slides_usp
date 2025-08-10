@@ -330,7 +330,7 @@
       align(left+bottom, authors.join(", ", last: " & "))
     )[
           #image(
-          "img/usp.jpg",
+          "usp.jpg",
           // height:15%,
           )
         ]
